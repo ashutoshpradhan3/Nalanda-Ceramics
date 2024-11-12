@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Nalanda-Ceramics/static/css/main.ebd4cd8d.css",
-    "main.js": "/Nalanda-Ceramics/static/js/main.82d618b8.js",
+    "main.js": "/Nalanda-Ceramics/static/js/main.e1754d6d.js",
     "static/media/kaj2.png": "/Nalanda-Ceramics/static/media/kaj2.59b277b94a309bf48c54.png",
     "static/media/bajaj1.png": "/Nalanda-Ceramics/static/media/bajaj1.779e34ee8ec636f047fb.png",
     "static/media/bajaj7.png": "/Nalanda-Ceramics/static/media/bajaj7.779e34ee8ec636f047fb.png",
@@ -123,10 +123,10 @@
     "static/media/om.png": "/Nalanda-Ceramics/static/media/om.f92e7e46dbbc6569d779.png",
     "index.html": "/Nalanda-Ceramics/index.html",
     "main.ebd4cd8d.css.map": "/Nalanda-Ceramics/static/css/main.ebd4cd8d.css.map",
-    "main.82d618b8.js.map": "/Nalanda-Ceramics/static/js/main.82d618b8.js.map"
+    "main.e1754d6d.js.map": "/Nalanda-Ceramics/static/js/main.e1754d6d.js.map"
   },
   "entrypoints": [
     "static/css/main.ebd4cd8d.css",
-    "static/js/main.82d618b8.js"
+    "static/js/main.e1754d6d.js"
   ]
 }
