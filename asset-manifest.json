@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Nalanda-Ceramics/static/css/main.27278f36.css",
-    "main.js": "/Nalanda-Ceramics/static/js/main.040e2682.js",
+    "main.js": "/Nalanda-Ceramics/static/js/main.e63170d2.js",
     "static/css/449.4476652b.chunk.css": "/Nalanda-Ceramics/static/css/449.4476652b.chunk.css",
     "static/js/449.138fb142.chunk.js": "/Nalanda-Ceramics/static/js/449.138fb142.chunk.js",
     "static/css/653.c6ef23c6.chunk.css": "/Nalanda-Ceramics/static/css/653.c6ef23c6.chunk.css",
     "static/js/653.f35875e5.chunk.js": "/Nalanda-Ceramics/static/js/653.f35875e5.chunk.js",
     "static/css/641.5eeec9f6.chunk.css": "/Nalanda-Ceramics/static/css/641.5eeec9f6.chunk.css",
     "static/js/641.8d70f14d.chunk.js": "/Nalanda-Ceramics/static/js/641.8d70f14d.chunk.js",
-    "static/css/271.9d2ceaa5.chunk.css": "/Nalanda-Ceramics/static/css/271.9d2ceaa5.chunk.css",
-    "static/js/271.92e84243.chunk.js": "/Nalanda-Ceramics/static/js/271.92e84243.chunk.js",
+    "static/css/902.a4b01b93.chunk.css": "/Nalanda-Ceramics/static/css/902.a4b01b93.chunk.css",
+    "static/js/902.41098f93.chunk.js": "/Nalanda-Ceramics/static/js/902.41098f93.chunk.js",
     "static/css/84.5518b030.chunk.css": "/Nalanda-Ceramics/static/css/84.5518b030.chunk.css",
     "static/js/84.b04f5311.chunk.js": "/Nalanda-Ceramics/static/js/84.b04f5311.chunk.js",
     "static/css/81.8f8476a9.chunk.css": "/Nalanda-Ceramics/static/css/81.8f8476a9.chunk.css",
@@ -164,18 +164,18 @@
     "static/media/sink6.png": "/Nalanda-Ceramics/static/media/sink6.500fc35314fb0a85e82d.png",
     "static/media/fauc3.png": "/Nalanda-Ceramics/static/media/fauc3.6e351e47366f93da1359.png",
     "static/media/ashutosh.png": "/Nalanda-Ceramics/static/media/ashutosh.ac13751a60ed7315cc4f.png",
-    "static/media/om.png": "/Nalanda-Ceramics/static/media/om.f92e7e46dbbc6569d779.png",
+    "static/media/rishank.png": "/Nalanda-Ceramics/static/media/rishank.0f865248c0fd86fefd12.png",
     "index.html": "/Nalanda-Ceramics/index.html",
     "main.27278f36.css.map": "/Nalanda-Ceramics/static/css/main.27278f36.css.map",
-    "main.040e2682.js.map": "/Nalanda-Ceramics/static/js/main.040e2682.js.map",
+    "main.e63170d2.js.map": "/Nalanda-Ceramics/static/js/main.e63170d2.js.map",
     "449.4476652b.chunk.css.map": "/Nalanda-Ceramics/static/css/449.4476652b.chunk.css.map",
     "449.138fb142.chunk.js.map": "/Nalanda-Ceramics/static/js/449.138fb142.chunk.js.map",
     "653.c6ef23c6.chunk.css.map": "/Nalanda-Ceramics/static/css/653.c6ef23c6.chunk.css.map",
     "653.f35875e5.chunk.js.map": "/Nalanda-Ceramics/static/js/653.f35875e5.chunk.js.map",
     "641.5eeec9f6.chunk.css.map": "/Nalanda-Ceramics/static/css/641.5eeec9f6.chunk.css.map",
     "641.8d70f14d.chunk.js.map": "/Nalanda-Ceramics/static/js/641.8d70f14d.chunk.js.map",
-    "271.9d2ceaa5.chunk.css.map": "/Nalanda-Ceramics/static/css/271.9d2ceaa5.chunk.css.map",
-    "271.92e84243.chunk.js.map": "/Nalanda-Ceramics/static/js/271.92e84243.chunk.js.map",
+    "902.a4b01b93.chunk.css.map": "/Nalanda-Ceramics/static/css/902.a4b01b93.chunk.css.map",
+    "902.41098f93.chunk.js.map": "/Nalanda-Ceramics/static/js/902.41098f93.chunk.js.map",
     "84.5518b030.chunk.css.map": "/Nalanda-Ceramics/static/css/84.5518b030.chunk.css.map",
     "84.b04f5311.chunk.js.map": "/Nalanda-Ceramics/static/js/84.b04f5311.chunk.js.map",
     "81.8f8476a9.chunk.css.map": "/Nalanda-Ceramics/static/css/81.8f8476a9.chunk.css.map",
@@ -215,6 +215,6 @@
   },
   "entrypoints": [
     "static/css/main.27278f36.css",
-    "static/js/main.040e2682.js"
+    "static/js/main.e63170d2.js"
   ]
 }
